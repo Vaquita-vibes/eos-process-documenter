@@ -1,4 +1,4 @@
-# EOS Process Documenter — La Vaquita Flea Market
+# EOS Process Documenter
 
 An AI-powered agent that walks team members through the EOS 3-Step Process Documentation method and produces branded, downloadable process sheets.
 
